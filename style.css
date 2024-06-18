@@ -6,6 +6,7 @@ body {
 
 h1{
   text-align: center;
+  font-size: 18px;
 }
 
 p{
@@ -51,8 +52,12 @@ footer{
 #details > div{
   float: left;
 }
+details div > p{
+  text-align: center;
+}
 div{
   background-color: red;
   text-align: center;
   width: 25%;
+  font-size: 12px;
 }
