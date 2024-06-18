@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+p{
+  font-size: 600;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+}
+
+nav{
+  text-align: center;
+}
+
+nav a{
+  padding: 10;
+  background: #ccc;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 14px;
+}
+
+#featured-property p{
+  width: 600px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 12px;
+}
+
+footer{
+  text-align: center;
+  width: 100%;
+}
+
+#details > div{
+  float: left;
+}
+div{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
